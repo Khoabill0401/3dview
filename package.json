@@ -1,0 +1,19 @@
+{
+  "name": "3dview",
+  "version": "1.0.0",
+  "description": "This is the testing place for BIMTECH website",
+  "main": "bundle.9912244369545d1e.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khoabill0401/3dview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khoabill0401/3dview/issues"
+  },
+  "homepage": "https://github.com/Khoabill0401/3dview#readme"
+}
